@@ -104,19 +104,5 @@ Last Updated On: 13/10/2026
   <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pedro-medina-a746a4354/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:medinacamacho27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</p>
-
------
-
-Credit: [MedinaPedroDev](https://github.com/MedinaPedroDev)
-
-Last Edited on: 03/03/2025
 
 
