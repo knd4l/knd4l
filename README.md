@@ -91,18 +91,6 @@ Last Updated On: 13/10/2026
 
 ### <h2>⚙️ Github stats:</h2> 
 
-<p align="center">
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedinaPedroDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MedinaPedroDev&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
 
 
 
